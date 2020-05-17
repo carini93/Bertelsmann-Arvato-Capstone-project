@@ -45,13 +45,10 @@ The project consists of 4 parts:
 1. `Arvato_Project_Complete_Workbook.ipynb` : Jupyter notebook that showcases the analysis to all these steps of the project and includes the code for data cleaning, visualization.
 2. `data/` : folder with .csv files with description of attributes in given data set.
 3. `etl/etl.py` : `etl.py` a python code supplementary functions for  extract transform load (etl) pipeline.
-4. `ml/unsupervised_ml.py`: `unsupervised_ml.py` is a python code with supplementary functions for unsupervised learning pipeline.
-5. `ml/supervised_ml.py` : `supervised_ml.py` is a python code with supplementary functions for supervised learning pipeline.
+4. `unsupervised_ml.py`: `unsupervised_ml.py` is a python code with supplementary functions for unsupervised learning pipeline.
+5. `supervised_ml.py` : `supervised_ml.py` is a python code with supplementary functions for supervised learning pipeline.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@TanmayaChaudhary/arvato-financial-solutions-customer-segmentation-report-6d8d6e02b5c4).
+The main findings of the code can be found at the post available [here](https://medium.com/@carini93luca/bertelsmann-arvato-customer-predictions-7a75d5aa468b).
 
-## Acknowledgements<a name="licensing"></a>
-
-Thanks Udacity & mentors for this amazing project.
