@@ -7,7 +7,6 @@
 2. [Project Motivation](#motivation)
 3. [Files Description](#files)
 4. [Results](#results)
-5. [Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 The required libraries for running the code within Jupiter notebook & python files are part of the Anaconda distribution for Python 3.7.7
